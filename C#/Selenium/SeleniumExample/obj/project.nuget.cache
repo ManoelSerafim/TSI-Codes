@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMnOh+oIeTE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\20251038060009\\Documents\\C#\\Selenium\\SeleniumExample\\SeleniumExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20251038060009\\.nuget\\packages\\selenium.webdriver\\4.33.0\\selenium.webdriver.4.33.0.nupkg.sha512",
+    "C:\\Users\\20251038060009\\.nuget\\packages\\selenium.webdriver.chromedriver\\137.0.7151.5500\\selenium.webdriver.chromedriver.137.0.7151.5500.nupkg.sha512"
+  ],
+  "logs": []
+}

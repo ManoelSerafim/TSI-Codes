@@ -1,0 +1,7 @@
+C:\Users\20251038060009\Documents\C#\Sintomas\Sintomas\bin\Debug\Sintomas.exe.config
+C:\Users\20251038060009\Documents\C#\Sintomas\Sintomas\bin\Debug\Sintomas.exe
+C:\Users\20251038060009\Documents\C#\Sintomas\Sintomas\bin\Debug\Sintomas.pdb
+C:\Users\20251038060009\Documents\C#\Sintomas\Sintomas\obj\Debug\Sintomas.csproj.AssemblyReference.cache
+C:\Users\20251038060009\Documents\C#\Sintomas\Sintomas\obj\Debug\Sintomas.csproj.CoreCompileInputs.cache
+C:\Users\20251038060009\Documents\C#\Sintomas\Sintomas\obj\Debug\Sintomas.exe
+C:\Users\20251038060009\Documents\C#\Sintomas\Sintomas\obj\Debug\Sintomas.pdb

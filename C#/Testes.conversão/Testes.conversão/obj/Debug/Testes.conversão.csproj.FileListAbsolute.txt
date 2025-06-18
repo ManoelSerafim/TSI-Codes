@@ -1,0 +1,7 @@
+C:\Users\20251038060009\Documents\C#\Testes.conversão\Testes.conversão\bin\Debug\Testes.conversão.exe.config
+C:\Users\20251038060009\Documents\C#\Testes.conversão\Testes.conversão\bin\Debug\Testes.conversão.exe
+C:\Users\20251038060009\Documents\C#\Testes.conversão\Testes.conversão\bin\Debug\Testes.conversão.pdb
+C:\Users\20251038060009\Documents\C#\Testes.conversão\Testes.conversão\obj\Debug\Testes.conversão.csproj.AssemblyReference.cache
+C:\Users\20251038060009\Documents\C#\Testes.conversão\Testes.conversão\obj\Debug\Testes.conversão.csproj.CoreCompileInputs.cache
+C:\Users\20251038060009\Documents\C#\Testes.conversão\Testes.conversão\obj\Debug\Testes.conversão.exe
+C:\Users\20251038060009\Documents\C#\Testes.conversão\Testes.conversão\obj\Debug\Testes.conversão.pdb
