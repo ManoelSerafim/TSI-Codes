@@ -1,0 +1,7 @@
+C:\Users\20251038060009\Documents\C#\Atvd_matriz\Atvd_matriz\bin\Debug\Atvd_matriz.exe.config
+C:\Users\20251038060009\Documents\C#\Atvd_matriz\Atvd_matriz\bin\Debug\Atvd_matriz.exe
+C:\Users\20251038060009\Documents\C#\Atvd_matriz\Atvd_matriz\bin\Debug\Atvd_matriz.pdb
+C:\Users\20251038060009\Documents\C#\Atvd_matriz\Atvd_matriz\obj\Debug\Atvd_matriz.csproj.AssemblyReference.cache
+C:\Users\20251038060009\Documents\C#\Atvd_matriz\Atvd_matriz\obj\Debug\Atvd_matriz.csproj.CoreCompileInputs.cache
+C:\Users\20251038060009\Documents\C#\Atvd_matriz\Atvd_matriz\obj\Debug\Atvd_matriz.exe
+C:\Users\20251038060009\Documents\C#\Atvd_matriz\Atvd_matriz\obj\Debug\Atvd_matriz.pdb

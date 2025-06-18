@@ -1,0 +1,7 @@
+C:\Users\20251038060009\Documents\C#\Matriz_teste\Matriz_teste\bin\Debug\Matriz_teste.exe.config
+C:\Users\20251038060009\Documents\C#\Matriz_teste\Matriz_teste\bin\Debug\Matriz_teste.exe
+C:\Users\20251038060009\Documents\C#\Matriz_teste\Matriz_teste\bin\Debug\Matriz_teste.pdb
+C:\Users\20251038060009\Documents\C#\Matriz_teste\Matriz_teste\obj\Debug\Matriz_teste.csproj.AssemblyReference.cache
+C:\Users\20251038060009\Documents\C#\Matriz_teste\Matriz_teste\obj\Debug\Matriz_teste.csproj.CoreCompileInputs.cache
+C:\Users\20251038060009\Documents\C#\Matriz_teste\Matriz_teste\obj\Debug\Matriz_teste.exe
+C:\Users\20251038060009\Documents\C#\Matriz_teste\Matriz_teste\obj\Debug\Matriz_teste.pdb
